@@ -22,9 +22,9 @@ Aplicação de algoritmos de Machine Learning para efetuar a previsão da classe
 
 ## Descrição dos arquivos:
 
-1. **.ipynb:** 
-1. **.py:** 
-1. **.csv:** 
+1. **Animal Classification..ipynb:** Resultado da análise exploratória e posterior aplicação dos algoritmos de *Machine Learning*.
+1. **Animal Classification..py:** Resultado da análise exploratória e posterior aplicação dos algoritmos de *Machine Learning*.
+1. **zoo.csv:** Base de dados contendo os registros a serem avaliados.
 
 
 
