@@ -1,10 +1,9 @@
-# EM CONSTRUÇÃO
-
+#
 # <p align=center> Zoo Animal Classification </p>
 
-Projeto focado ...
+Aplicação de algoritmos de Machine Learning para efetuar a previsão da classe do animal, baseada em suas caracteristicas físicas.
 
-
+![gifAnimal](https://user-images.githubusercontent.com/54869201/151371693-98ced1e0-5283-4527-95d6-cfc403e32687.gif)
 
 
 #
